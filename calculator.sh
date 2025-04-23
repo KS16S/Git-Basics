@@ -11,3 +11,6 @@ division
 
 #  To check Total commands used
 Count
+
+# To check percentage
+Percentage
