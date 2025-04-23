@@ -4,4 +4,4 @@
 Addition
 
 #To Substracte
-To minus
+To minus 2 numbers
