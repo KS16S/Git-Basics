@@ -8,3 +8,6 @@ To minus 2 numbers
 
 # To divide
 division
+
+#  To check Total commands used
+Count
