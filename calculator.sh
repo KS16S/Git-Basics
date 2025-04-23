@@ -25,3 +25,4 @@ git merge
 Fetch
 
 # To test Pull request concept
+git pull
