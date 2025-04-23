@@ -17,3 +17,6 @@ Percentage
 
 # To multiply
 Multiplication
+
+# To check the merge
+git merge
