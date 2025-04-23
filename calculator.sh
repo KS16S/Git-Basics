@@ -14,3 +14,6 @@ Count
 
 # To check percentage
 Percentage
+
+# To multiply
+Multiplication
